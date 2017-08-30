@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWireCardPayment", "TestWireCardPayment\TestWireCardPayment.csproj", "{E063EEBC-C83C-4F89-AA64-01DAF695529E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WireCardAndroidBinding", "..\WireCardAndroidBinding\WireCardAndroidBinding\WireCardAndroidBinding.csproj", "{D2FE9E35-4935-4A20-BF05-308F429D242F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E063EEBC-C83C-4F89-AA64-01DAF695529E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E063EEBC-C83C-4F89-AA64-01DAF695529E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E063EEBC-C83C-4F89-AA64-01DAF695529E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E063EEBC-C83C-4F89-AA64-01DAF695529E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E063EEBC-C83C-4F89-AA64-01DAF695529E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FE9E35-4935-4A20-BF05-308F429D242F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FE9E35-4935-4A20-BF05-308F429D242F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FE9E35-4935-4A20-BF05-308F429D242F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FE9E35-4935-4A20-BF05-308F429D242F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10F2DC9-8A8E-4922-88FC-53AE674A8BC1}
+	EndGlobalSection
+EndGlobal
